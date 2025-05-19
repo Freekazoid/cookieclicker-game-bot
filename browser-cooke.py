@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # _*_ coding:utf-8 _*_
+# https://orteil.dashnet.org/cookieclicker/
+
 
 # ID = "id"
 # XPATH = "xpath"
